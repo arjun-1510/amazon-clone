@@ -572,7 +572,7 @@ function Footer() {
                 <li>
                   <a href="#">Interest-Based Ads</a>
                 </li>
-                <li>&copy; 2020, Nitish</li>
+                <li>&copy; 2021, Arjun</li>
               </ul>
             </div>
           </div>
